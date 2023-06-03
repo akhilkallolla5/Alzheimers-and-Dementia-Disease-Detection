@@ -1,0 +1,10 @@
+Patient_Name,Age,Gender,Contact,Prediction
+rohit ,40,Male,1212121212,NonDemented
+anusha,40,Male,7823459873,MildDemented
+Anish,43,Male,8919902254,ModerateDemented
+Ramesh,55,Male,8978114753,NonDemented
+Vijaya,59,Female,8978392018,MildDemented
+Akhil,43,Male,9515354515,NonDemented
+virat,40,Male,9849066167,MildDemented
+Ashok,48,Male,9876523073,VeryMildDemented
+virat,40,Male,9876523457,MildDemented
